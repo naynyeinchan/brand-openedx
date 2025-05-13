@@ -1,2 +1,16 @@
 // Use this file to set SASS variables for @edx/paragon
 // See _variables.scss in https://github.com/openedx/paragon/blob/master/scss/core/ for reference
+
+// Color system
+$primary: #228B22 !default;
+
+$primary-50: #E9F3E9 !default;
+$primary-100: #BADBBA !default;
+$primary-200: #99CA99 !default;
+$primary-300: #6BB16B !default;
+$primary-400: #4EA24E !default;
+$primary-500: $primary !default;
+$primary-600: #1F7E1F !default;
+$primary-700: #186318 !default;
+$primary-800: #134C13 !default;
+$primary-900: #0E3A0E !default;
